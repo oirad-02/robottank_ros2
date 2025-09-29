@@ -1,6 +1,6 @@
+pragma once 
 #ifndef _DeviceDriverSet_xxx0_H_
 #define _DeviceDriverSet_xxx0_H_
-
 #include <arduino.h>
 
 /*Motor*/
